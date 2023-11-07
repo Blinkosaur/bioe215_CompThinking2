@@ -47,7 +47,7 @@ FolderTime()
 ```{r}
 library(tidyverse)
 
-# Generate sample data
+# Generate sample datas 
 # Sightings of Black Oystercatcher chicks at Santa Cruz beaches
 beaches <- c("Cowell's", "Steamer Lane", "Natural Bridges", "Mitchell's", "Main")
 # blue, green, black, white, yellow
